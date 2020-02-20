@@ -8,5 +8,7 @@ object second extends App  {
   
   
   println("welcome to scala progrm")
+  
+  println("bye")
  
 }
